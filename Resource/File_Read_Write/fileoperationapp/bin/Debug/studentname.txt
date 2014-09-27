@@ -1,0 +1,3 @@
+1. Create FileStream (Location, FileMode)
+2. Create StreamWriter(fileStream)
+3. Use Write Method()

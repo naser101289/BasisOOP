@@ -1,0 +1,21 @@
+C:\Users\PC21\Desktop\naser\filepractice\filepractice\bin\Debug\filepractice.exe.config
+C:\Users\PC21\Desktop\naser\filepractice\filepractice\bin\Debug\filepractice.exe
+C:\Users\PC21\Desktop\naser\filepractice\filepractice\bin\Debug\filepractice.pdb
+C:\Users\PC21\Desktop\naser\filepractice\filepractice\obj\Debug\filepractice.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\naser\filepractice\filepractice\obj\Debug\filepractice.EmployeeSalary.resources
+C:\Users\PC21\Desktop\naser\filepractice\filepractice\obj\Debug\filepractice.Properties.Resources.resources
+C:\Users\PC21\Desktop\naser\filepractice\filepractice\obj\Debug\filepractice.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\naser\filepractice\filepractice\obj\Debug\filepractice.exe
+C:\Users\PC21\Desktop\naser\filepractice\filepractice\obj\Debug\filepractice.pdb
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\naser\filepractice\filepractice\bin\Debug\filepractice.exe.config
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\naser\filepractice\filepractice\obj\Debug\filepractice.exe
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\naser\filepractice\filepractice\obj\Debug\filepractice.pdb
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\naser\filepractice\filepractice\bin\Debug\filepractice.exe
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\naser\filepractice\filepractice\bin\Debug\filepractice.pdb
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\naser\filepractice\filepractice\obj\Debug\filepractice.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\naser\filepractice\filepractice\obj\Debug\filepractice.EmployeeSalary.resources
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\naser\filepractice\filepractice\obj\Debug\filepractice.Properties.Resources.resources
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\naser\filepractice\filepractice\obj\Debug\filepractice.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\Resource\Comma_Separator\filepractice\bin\Debug\filepractice.exe.config
+C:\Users\PC21\Desktop\Resource\Comma_Separator\filepractice\obj\Debug\filepractice.exe
+C:\Users\PC21\Desktop\Resource\Comma_Separator\filepractice\obj\Debug\filepractice.pdb

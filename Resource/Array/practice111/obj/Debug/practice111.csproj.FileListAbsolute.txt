@@ -1,0 +1,21 @@
+C:\Users\PC21\Desktop\New folder\practice111\practice111\bin\Debug\practice111.exe.config
+C:\Users\PC21\Desktop\New folder\practice111\practice111\obj\Debug\practice111.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\New folder\practice111\practice111\obj\Debug\practice111.homeTask.resources
+C:\Users\PC21\Desktop\New folder\practice111\practice111\obj\Debug\practice111.Properties.Resources.resources
+C:\Users\PC21\Desktop\New folder\practice111\practice111\obj\Debug\practice111.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\New folder\practice111\practice111\bin\Debug\practice111.exe
+C:\Users\PC21\Desktop\New folder\practice111\practice111\bin\Debug\practice111.pdb
+C:\Users\PC21\Desktop\New folder\practice111\practice111\obj\Debug\practice111.exe
+C:\Users\PC21\Desktop\New folder\practice111\practice111\obj\Debug\practice111.pdb
+C:\Users\Abdullah-Al-\Desktop\practice111\practice111\bin\Debug\practice111.exe.config
+C:\Users\Abdullah-Al-\Desktop\practice111\practice111\obj\Debug\practice111.exe
+C:\Users\Abdullah-Al-\Desktop\practice111\practice111\obj\Debug\practice111.pdb
+C:\Users\Abdullah-Al-\Desktop\Resource\List\practice111\bin\Debug\practice111.exe.config
+C:\Users\Abdullah-Al-\Desktop\Resource\List\practice111\obj\Debug\practice111.exe
+C:\Users\Abdullah-Al-\Desktop\Resource\List\practice111\obj\Debug\practice111.pdb
+C:\Users\Abdullah-Al-\Desktop\Resource\List\practice111\obj\Debug\practice111.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah-Al-\Desktop\Resource\List\practice111\obj\Debug\practice111.homeTask.resources
+C:\Users\Abdullah-Al-\Desktop\Resource\List\practice111\obj\Debug\practice111.Properties.Resources.resources
+C:\Users\Abdullah-Al-\Desktop\Resource\List\practice111\obj\Debug\practice111.csproj.GenerateResource.Cache
+C:\Users\Abdullah-Al-\Desktop\Resource\List\practice111\bin\Debug\practice111.exe
+C:\Users\Abdullah-Al-\Desktop\Resource\List\practice111\bin\Debug\practice111.pdb

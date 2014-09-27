@@ -1,0 +1,18 @@
+C:\Users\PC21\Desktop\naser\employeeinformation\employeeinformation\bin\Debug\employeeinformation.exe.config
+C:\Users\PC21\Desktop\naser\employeeinformation\employeeinformation\bin\Debug\employeeinformation.exe
+C:\Users\PC21\Desktop\naser\employeeinformation\employeeinformation\bin\Debug\employeeinformation.pdb
+C:\Users\PC21\Desktop\naser\employeeinformation\employeeinformation\obj\Debug\employeeinformation.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\naser\employeeinformation\employeeinformation\obj\Debug\employeeinformation.Form1.resources
+C:\Users\PC21\Desktop\naser\employeeinformation\employeeinformation\obj\Debug\employeeinformation.Properties.Resources.resources
+C:\Users\PC21\Desktop\naser\employeeinformation\employeeinformation\obj\Debug\employeeinformation.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\naser\employeeinformation\employeeinformation\obj\Debug\employeeinformation.exe
+C:\Users\PC21\Desktop\naser\employeeinformation\employeeinformation\obj\Debug\employeeinformation.pdb
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\New folder (3)\naser\employeeinformation\employeeinformation\bin\Debug\employeeinformation.exe.config
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\New folder (3)\naser\employeeinformation\employeeinformation\obj\Debug\employeeinformation.exe
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\New folder (3)\naser\employeeinformation\employeeinformation\obj\Debug\employeeinformation.pdb
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\New folder (3)\naser\employeeinformation\employeeinformation\bin\Debug\employeeinformation.exe
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\New folder (3)\naser\employeeinformation\employeeinformation\bin\Debug\employeeinformation.pdb
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\New folder (3)\naser\employeeinformation\employeeinformation\obj\Debug\employeeinformation.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\New folder (3)\naser\employeeinformation\employeeinformation\obj\Debug\employeeinformation.Form1.resources
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\New folder (3)\naser\employeeinformation\employeeinformation\obj\Debug\employeeinformation.Properties.Resources.resources
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\New folder (3)\naser\employeeinformation\employeeinformation\obj\Debug\employeeinformation.csproj.GenerateResource.Cache

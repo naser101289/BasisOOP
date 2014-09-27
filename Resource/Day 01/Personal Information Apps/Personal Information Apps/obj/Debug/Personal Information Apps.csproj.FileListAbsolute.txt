@@ -1,0 +1,9 @@
+C:\Users\PC21\Desktop\Ovi\Personal Information Apps\Personal Information Apps\bin\Debug\Personal Information Apps.exe.config
+C:\Users\PC21\Desktop\Ovi\Personal Information Apps\Personal Information Apps\obj\Debug\Personal Information Apps.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\Ovi\Personal Information Apps\Personal Information Apps\obj\Debug\Personal_Information_Apps.PersonalInformationUI.resources
+C:\Users\PC21\Desktop\Ovi\Personal Information Apps\Personal Information Apps\obj\Debug\Personal_Information_Apps.Properties.Resources.resources
+C:\Users\PC21\Desktop\Ovi\Personal Information Apps\Personal Information Apps\obj\Debug\Personal Information Apps.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\Ovi\Personal Information Apps\Personal Information Apps\bin\Debug\Personal Information Apps.exe
+C:\Users\PC21\Desktop\Ovi\Personal Information Apps\Personal Information Apps\bin\Debug\Personal Information Apps.pdb
+C:\Users\PC21\Desktop\Ovi\Personal Information Apps\Personal Information Apps\obj\Debug\Personal Information Apps.exe
+C:\Users\PC21\Desktop\Ovi\Personal Information Apps\Personal Information Apps\obj\Debug\Personal Information Apps.pdb

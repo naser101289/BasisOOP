@@ -1,0 +1,12 @@
+C:\Users\PC21\Desktop\naser\fileoperationapp\fileoperationapp\bin\Debug\fileoperationapp.exe.config
+C:\Users\PC21\Desktop\naser\fileoperationapp\fileoperationapp\bin\Debug\fileoperationapp.exe
+C:\Users\PC21\Desktop\naser\fileoperationapp\fileoperationapp\bin\Debug\fileoperationapp.pdb
+C:\Users\PC21\Desktop\naser\fileoperationapp\fileoperationapp\obj\Debug\fileoperationapp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\naser\fileoperationapp\fileoperationapp\obj\Debug\fileoperationapp.Form1.resources
+C:\Users\PC21\Desktop\naser\fileoperationapp\fileoperationapp\obj\Debug\fileoperationapp.Properties.Resources.resources
+C:\Users\PC21\Desktop\naser\fileoperationapp\fileoperationapp\obj\Debug\fileoperationapp.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\naser\fileoperationapp\fileoperationapp\obj\Debug\fileoperationapp.exe
+C:\Users\PC21\Desktop\naser\fileoperationapp\fileoperationapp\obj\Debug\fileoperationapp.pdb
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\New folder (3)\naser\fileoperationapp\fileoperationapp\bin\Debug\fileoperationapp.exe.config
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\New folder (3)\naser\fileoperationapp\fileoperationapp\obj\Debug\fileoperationapp.exe
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\New folder (3)\naser\fileoperationapp\fileoperationapp\obj\Debug\fileoperationapp.pdb

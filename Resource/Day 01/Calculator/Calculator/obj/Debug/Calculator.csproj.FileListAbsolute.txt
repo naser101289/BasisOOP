@@ -1,0 +1,8 @@
+C:\Users\PC21\Desktop\Ovi\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\PC21\Desktop\Ovi\Calculator\Calculator\obj\Debug\Calculator.CalculatorUI.resources
+C:\Users\PC21\Desktop\Ovi\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\PC21\Desktop\Ovi\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\Ovi\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\PC21\Desktop\Ovi\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\PC21\Desktop\Ovi\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\PC21\Desktop\Ovi\Calculator\Calculator\obj\Debug\Calculator.pdb

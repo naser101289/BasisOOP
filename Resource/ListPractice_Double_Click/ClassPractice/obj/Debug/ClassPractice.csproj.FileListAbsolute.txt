@@ -1,0 +1,33 @@
+C:\Users\PC21\Desktop\MHTB\Class practice\ClassPractice\ClassPractice\bin\Debug\ClassPractice.exe.config
+C:\Users\PC21\Desktop\MHTB\Class practice\ClassPractice\ClassPractice\obj\Debug\ClassPractice.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\MHTB\Class practice\ClassPractice\ClassPractice\obj\Debug\ClassPractice.Form1.resources
+C:\Users\PC21\Desktop\MHTB\Class practice\ClassPractice\ClassPractice\obj\Debug\ClassPractice.Properties.Resources.resources
+C:\Users\PC21\Desktop\MHTB\Class practice\ClassPractice\ClassPractice\obj\Debug\ClassPractice.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\MHTB\Class practice\ClassPractice\ClassPractice\bin\Debug\ClassPractice.exe
+C:\Users\PC21\Desktop\MHTB\Class practice\ClassPractice\ClassPractice\bin\Debug\ClassPractice.pdb
+C:\Users\PC21\Desktop\MHTB\Class practice\ClassPractice\ClassPractice\obj\Debug\ClassPractice.exe
+C:\Users\PC21\Desktop\MHTB\Class practice\ClassPractice\ClassPractice\obj\Debug\ClassPractice.pdb
+C:\Users\PC21\Desktop\ClassPractice\ClassPractice\bin\Debug\ClassPractice.exe.config
+C:\Users\PC21\Desktop\ClassPractice\ClassPractice\obj\Debug\ClassPractice.exe
+C:\Users\PC21\Desktop\ClassPractice\ClassPractice\obj\Debug\ClassPractice.pdb
+C:\Users\PC21\Desktop\ClassPractice\ClassPractice\bin\Debug\ClassPractice.exe
+C:\Users\PC21\Desktop\ClassPractice\ClassPractice\bin\Debug\ClassPractice.pdb
+C:\Users\PC21\Desktop\ClassPractice\ClassPractice\obj\Debug\ClassPractice.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\ClassPractice\ClassPractice\obj\Debug\ClassPractice.Form1.resources
+C:\Users\PC21\Desktop\ClassPractice\ClassPractice\obj\Debug\ClassPractice.Properties.Resources.resources
+C:\Users\PC21\Desktop\ClassPractice\ClassPractice\obj\Debug\ClassPractice.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\New folder (3)\ClassPractice\ClassPractice\bin\Debug\ClassPractice.exe.config
+C:\Users\PC21\Desktop\New folder (3)\ClassPractice\ClassPractice\obj\Debug\ClassPractice.exe
+C:\Users\PC21\Desktop\New folder (3)\ClassPractice\ClassPractice\obj\Debug\ClassPractice.pdb
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\New folder (3)\ClassPractice\ClassPractice\bin\Debug\ClassPractice.exe.config
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\New folder (3)\ClassPractice\ClassPractice\obj\Debug\ClassPractice.exe
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\New folder (3)\ClassPractice\ClassPractice\obj\Debug\ClassPractice.pdb
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\New folder (3)\ClassPractice\ClassPractice\bin\Debug\ClassPractice.exe
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\New folder (3)\ClassPractice\ClassPractice\bin\Debug\ClassPractice.pdb
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\New folder (3)\ClassPractice\ClassPractice\obj\Debug\ClassPractice.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\New folder (3)\ClassPractice\ClassPractice\obj\Debug\ClassPractice.Form1.resources
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\New folder (3)\ClassPractice\ClassPractice\obj\Debug\ClassPractice.Properties.Resources.resources
+C:\Users\Abdullah-Al-\Desktop\naser\New Folder\New folder (3)\ClassPractice\ClassPractice\obj\Debug\ClassPractice.csproj.GenerateResource.Cache
+C:\Users\Abdullah-Al-\Desktop\Resource\ClassPractice\ClassPractice\bin\Debug\ClassPractice.exe.config
+C:\Users\Abdullah-Al-\Desktop\Resource\ClassPractice\ClassPractice\obj\Debug\ClassPractice.exe
+C:\Users\Abdullah-Al-\Desktop\Resource\ClassPractice\ClassPractice\obj\Debug\ClassPractice.pdb

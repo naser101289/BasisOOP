@@ -1,0 +1,45 @@
+D:\VSProjects\EmployInformation\EmployInformation\bin\Debug\EmployInformation.exe.config
+D:\VSProjects\EmployInformation\EmployInformation\bin\Debug\EmployInformation.exe
+D:\VSProjects\EmployInformation\EmployInformation\bin\Debug\EmployInformation.pdb
+D:\VSProjects\EmployInformation\EmployInformation\obj\Debug\EmployInformation.csprojResolveAssemblyReference.cache
+D:\VSProjects\EmployInformation\EmployInformation\obj\Debug\EmployInformation.InformationUI.resources
+D:\VSProjects\EmployInformation\EmployInformation\obj\Debug\EmployInformation.Properties.Resources.resources
+D:\VSProjects\EmployInformation\EmployInformation\obj\Debug\EmployInformation.csproj.GenerateResource.Cache
+D:\VSProjects\EmployInformation\EmployInformation\obj\Debug\EmployInformation.exe
+D:\VSProjects\EmployInformation\EmployInformation\obj\Debug\EmployInformation.pdb
+D:\19-9-14\EmployInformation\EmployInformation\bin\Debug\EmployInformation.exe.config
+D:\19-9-14\EmployInformation\EmployInformation\obj\Debug\EmployInformation.exe
+D:\19-9-14\EmployInformation\EmployInformation\obj\Debug\EmployInformation.pdb
+D:\19-9-14\EmployInformation\EmployInformation\obj\Debug\EmployInformation.csprojResolveAssemblyReference.cache
+D:\19-9-14\EmployInformation\EmployInformation\obj\Debug\EmployInformation.InformationUI.resources
+D:\19-9-14\EmployInformation\EmployInformation\obj\Debug\EmployInformation.Properties.Resources.resources
+D:\19-9-14\EmployInformation\EmployInformation\obj\Debug\EmployInformation.csproj.GenerateResource.Cache
+D:\19-9-14\EmployInformation\EmployInformation\bin\Debug\EmployInformation.exe
+D:\19-9-14\EmployInformation\EmployInformation\bin\Debug\EmployInformation.pdb
+C:\Users\PC21\Desktop\EmployInformation\EmployInformation\bin\Debug\EmployInformation.exe.config
+C:\Users\PC21\Desktop\EmployInformation\EmployInformation\obj\Debug\EmployInformation.exe
+C:\Users\PC21\Desktop\EmployInformation\EmployInformation\obj\Debug\EmployInformation.pdb
+C:\Users\PC21\Desktop\EmployInformation\EmployInformation\bin\Debug\EmployInformation.exe
+C:\Users\PC21\Desktop\EmployInformation\EmployInformation\bin\Debug\EmployInformation.pdb
+C:\Users\PC21\Desktop\EmployInformation\EmployInformation\obj\Debug\EmployInformation.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\EmployInformation\EmployInformation\obj\Debug\EmployInformation.InformationUI.resources
+C:\Users\PC21\Desktop\EmployInformation\EmployInformation\obj\Debug\EmployInformation.Properties.Resources.resources
+C:\Users\PC21\Desktop\EmployInformation\EmployInformation\obj\Debug\EmployInformation.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\New folder (3)\EmployInformation\EmployInformation\bin\Debug\EmployInformation.exe.config
+C:\Users\PC21\Desktop\New folder (3)\EmployInformation\EmployInformation\obj\Debug\EmployInformation.exe
+C:\Users\PC21\Desktop\New folder (3)\EmployInformation\EmployInformation\obj\Debug\EmployInformation.pdb
+C:\Users\PC21\Desktop\New folder (3)\EmployInformation\EmployInformation\bin\Debug\EmployInformation.exe
+C:\Users\PC21\Desktop\New folder (3)\EmployInformation\EmployInformation\bin\Debug\EmployInformation.pdb
+C:\Users\PC21\Desktop\New folder (3)\EmployInformation\EmployInformation\obj\Debug\EmployInformation.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\New folder (3)\EmployInformation\EmployInformation\obj\Debug\EmployInformation.InformationUI.resources
+C:\Users\PC21\Desktop\New folder (3)\EmployInformation\EmployInformation\obj\Debug\EmployInformation.Properties.Resources.resources
+C:\Users\PC21\Desktop\New folder (3)\EmployInformation\EmployInformation\obj\Debug\EmployInformation.csproj.GenerateResource.Cache
+C:\Users\Abdullah-Al-\Desktop\Resource\EmployInformation\EmployInformation\bin\Debug\EmployInformation.exe.config
+C:\Users\Abdullah-Al-\Desktop\Resource\EmployInformation\EmployInformation\obj\Debug\EmployInformation.exe
+C:\Users\Abdullah-Al-\Desktop\Resource\EmployInformation\EmployInformation\obj\Debug\EmployInformation.pdb
+C:\Users\Abdullah-Al-\Desktop\Resource\EmployInformation\EmployInformation\bin\Debug\EmployInformation.exe
+C:\Users\Abdullah-Al-\Desktop\Resource\EmployInformation\EmployInformation\bin\Debug\EmployInformation.pdb
+C:\Users\Abdullah-Al-\Desktop\Resource\EmployInformation\EmployInformation\obj\Debug\EmployInformation.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah-Al-\Desktop\Resource\EmployInformation\EmployInformation\obj\Debug\EmployInformation.InformationUI.resources
+C:\Users\Abdullah-Al-\Desktop\Resource\EmployInformation\EmployInformation\obj\Debug\EmployInformation.Properties.Resources.resources
+C:\Users\Abdullah-Al-\Desktop\Resource\EmployInformation\EmployInformation\obj\Debug\EmployInformation.csproj.GenerateResource.Cache
