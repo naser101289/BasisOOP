@@ -1,0 +1,9 @@
+C:\Users\PC21\Desktop\naser\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.exe.config
+C:\Users\PC21\Desktop\naser\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.exe
+C:\Users\PC21\Desktop\naser\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.pdb
+C:\Users\PC21\Desktop\naser\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\naser\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.StudentInformation.resources
+C:\Users\PC21\Desktop\naser\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.Properties.Resources.resources
+C:\Users\PC21\Desktop\naser\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\naser\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.exe
+C:\Users\PC21\Desktop\naser\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.pdb

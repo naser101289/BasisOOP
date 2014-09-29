@@ -1,0 +1,10 @@
+C:\Users\PC21\Desktop\naser\DailyExpenseApplication\DailyExpenseApplication\bin\Debug\DailyExpenseApplication.exe.config
+C:\Users\PC21\Desktop\naser\DailyExpenseApplication\DailyExpenseApplication\bin\Debug\DailyExpenseApplication.exe
+C:\Users\PC21\Desktop\naser\DailyExpenseApplication\DailyExpenseApplication\bin\Debug\DailyExpenseApplication.pdb
+C:\Users\PC21\Desktop\naser\DailyExpenseApplication\DailyExpenseApplication\bin\Debug\CSVLib.dll
+C:\Users\PC21\Desktop\naser\DailyExpenseApplication\DailyExpenseApplication\obj\Debug\DailyExpenseApplication.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\naser\DailyExpenseApplication\DailyExpenseApplication\obj\Debug\DailyExpenseApplication.Form1.resources
+C:\Users\PC21\Desktop\naser\DailyExpenseApplication\DailyExpenseApplication\obj\Debug\DailyExpenseApplication.Properties.Resources.resources
+C:\Users\PC21\Desktop\naser\DailyExpenseApplication\DailyExpenseApplication\obj\Debug\DailyExpenseApplication.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\naser\DailyExpenseApplication\DailyExpenseApplication\obj\Debug\DailyExpenseApplication.exe
+C:\Users\PC21\Desktop\naser\DailyExpenseApplication\DailyExpenseApplication\obj\Debug\DailyExpenseApplication.pdb

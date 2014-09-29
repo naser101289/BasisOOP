@@ -1,0 +1,7 @@
+C:\Users\PC21\Desktop\naser\PersonApp\PersonApp\obj\Debug\PersonApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\naser\PersonApp\PersonApp\obj\Debug\PersonApp.PersonUI.resources
+C:\Users\PC21\Desktop\naser\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\naser\PersonApp\PersonApp\bin\Debug\PersonApp.pdb
+C:\Users\PC21\Desktop\naser\PersonApp\PersonApp\obj\Debug\PersonApp.pdb
+C:\Users\PC21\Desktop\naser\PersonApp\PersonApp\bin\Debug\PersonApp.exe
+C:\Users\PC21\Desktop\naser\PersonApp\PersonApp\obj\Debug\PersonApp.exe

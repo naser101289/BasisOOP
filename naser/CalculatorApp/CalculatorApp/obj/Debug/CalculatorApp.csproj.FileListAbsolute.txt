@@ -1,0 +1,9 @@
+C:\Users\PC21\Desktop\naser\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\PC21\Desktop\naser\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\naser\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\PC21\Desktop\naser\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\naser\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\PC21\Desktop\naser\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\PC21\Desktop\naser\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\PC21\Desktop\naser\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\Users\PC21\Desktop\naser\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalculatorUI.resources
